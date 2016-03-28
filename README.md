@@ -1,3 +1,2 @@
-# hello-world
-test project
+# helloworld
 Monday 28.3.16
